@@ -258,7 +258,11 @@ export default {
             'Docker',
             'Github',
             'UI/UX',
-            'Unit Testing'
+            'Unit Testing',
+            'Kafka',
+            'Matlab',
+            'Scala',
+            'Elm'
         ]
     })
     const userInerestsIndices = computed(() => {
